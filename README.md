@@ -1,5 +1,7 @@
 # Ethereum Swaps — WordPress Dashboard
 
+![Ethereum swap observations and quote tables](assets/overview-2026-10-24.png)
+
 On-chain activity becomes easier to explore when a live feed, recurring addresses and comparison views are available together. Ethereum Swaps brings those parts of the monitoring experience into a WordPress page, giving visitors a focused way to investigate the observed swap activity.
 
 ## Tech stack
