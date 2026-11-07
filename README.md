@@ -1,6 +1,6 @@
 # Ethereum Swaps — WordPress Dashboard
 
-![Ethereum swap observations and quote tables](assets/overview-2026-10-24.png)
+![Ethereum swap observations and quote tables](assets/ethereum-swaps-wordpress-dashboard-swap-table-quotes.png)
 
 Ethereum Swaps is the visitor-facing dashboard of the Ethereum Chain Swap Monitor, published as a WordPress page on [logicencoder.com](https://logicencoder.com). It shows the live swap feed with searchable and filterable entries, the most active addresses, saved quote tables, a map of the monitored pool routes and a log of past activity, so visitors can explore on-chain swap activity without running the monitor themselves.
 
